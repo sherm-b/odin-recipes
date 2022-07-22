@@ -9,6 +9,8 @@ img {
     height: auto;
 }
 
-li {
+#pumpkin,
+#cookie,
+#lentil li {
     text-align: left;
 }
